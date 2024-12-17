@@ -1,0 +1,8 @@
+#gleam
+build/
+test/
+*.toml
+
+*python/
+*.py
+
